@@ -1,0 +1,31 @@
+Requirements:
+
+10 x 10 Board x4: 
+   ¬Player Fleet Deployment
+   ¬ Player Targeting
+   ¬ Enemy Fleet Deployment (not shown unless testing)
+   ¬ Enemy targeting (not shown unless testing)
+
+Enemy Ships (randomized location Must not spawn into area already containing ship):
+  (Must be spawned vertical or horizontal)
+	> Aircraft Carrier (Size: 5)
+	> Battleship (Size: 4)
+	> submarine ( Size: 3)
+	> Destroyer (Size :3)
+	> patrol boat ( Size: 2)
+
+Player Ships ( Player Slects ship to place then selects area on board to occupy)
+  (Must be spawned vertical or horizontal)
+	> Aircraft Carrier (Size: 5)
+	> Battleship (Size: 4)
+	> submarine ( Size: 3)
+	> Destroyer (Size :3)
+	> patrol boat ( Size: 2)
+
+
+Enemy fires randomly (extra function if player ship is hit fire into adjacent block)
+  > Must not fire into previously fired location 
+  > Hit or miss  displayed on Player fleet deployment screen (also recorded in enemy targeting)
+
+
+ 
