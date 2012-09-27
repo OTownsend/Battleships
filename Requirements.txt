@@ -26,6 +26,7 @@ Player Ships ( Player Slects ship to place then selects area on board to occupy)
 Enemy fires randomly (extra function if player ship is hit fire into adjacent block)
   > Must not fire into previously fired location 
   > Hit or miss  displayed on Player fleet deployment screen (also recorded in enemy targeting)
-
+  > Make the enemy firing function take data from player or AI. That is decouple its 
+    functionality from where the co-ordinates are generated.
 
  
